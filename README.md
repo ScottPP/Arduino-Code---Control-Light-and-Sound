@@ -1,2 +1,8 @@
 # Arduino-Code---Control-Light-and-Sound
 Development of Arduino code to control lights and play audio files in various combinations
+
+I am a Blackhawks hockey fan.  I also collect antique emergency lights such as those that were on fire trucks or police cars 50 years ago.  I am experimenting with using Arduino boards and shields to initiate my lights and audio files remotely from an iPhone in order to celebrate goals during a hockey game.  I plan to develop separate Arduino code to operate one or more of 5 lights in combination with one of five audio files.  I have purchased an Arduino wifi shield and audio shield.  The wifi shield will be used to receive/send commands between my iPhone and the Arduino Uno.  The audio shield and related media will be used to store and play (through connected speakers) selected audio files in combination with light operation.
+
+This concept has been a long time in conception.  I am a lawyer with an interest in technology with no real education in the necessary physics.  I have spent much time learning about electricity (e.g., what is wats, volts, amps, etc., and how do those specs relate to my project) and arduino functionality and programming.  Among other challenges, the lights are DC, household current is AC, so I had to figure out what these designations mean in practical terms, how to convert one to the other, and then buy the converter with the necessary specs (well, hopefully).  I bought an RV AC to DC converter that can take 110 volt AC and generate up to 55 amps at 12 volts DC.
+
+I think I have the essential hardware, now its time to program the Arduino Uno.  Hope I can accomplish this before the season is over!
